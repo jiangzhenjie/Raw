@@ -1,6 +1,6 @@
 {
-    "errno": 20,
-    "message": "success",
+    "errno": 120,
+    "message": "funking fail",
     "data": {
         "uid": "10188",
         "cid": "0",
